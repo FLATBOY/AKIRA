@@ -41,13 +41,6 @@ Cross-platform note-taking app with real-time sync capabilities.
 - Custom animations and transitions
 - Advanced text processing features
 
-#### [PECA](https://github.com/FLATBOY/PECA)
-Enterprise messaging platform with end-to-end encryption.
-- MVVM architecture with Combine
-- Push notifications with Firebase Cloud Messaging
-- AWS for secure backend infrastructure
-- Offline-first data persistence
-
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FLATBOY&show_icons=true&theme=radical)
