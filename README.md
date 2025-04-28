@@ -3,15 +3,22 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:akira.minhtran15@gmail.com" title="Email Address"><code>My email</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>@lissy93:matrix.org</code></a>
+<a href="mailto:akira.minhtran15@gmail.com" title="Email Address"><code>My email</code></a> │ 
+<a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a>
 </p>
 
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes"><img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93"><img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes">
+    <img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes">
+    <img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93">
+    <img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" />
+  </a>
   <a href="https://aliciasykes.com" title="Personal Website - aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
@@ -67,19 +74,7 @@ When I'm not at the keyboard, I like sports, reading and hanging out with friend
 
   </p>
 </details>
-  
 
-
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
-
-<a href="https://github.com/Lissy93/Lissy93/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
        
 
 
