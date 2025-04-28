@@ -1,4 +1,4 @@
-# 👨‍💻 AKIRA FLATBOY
+# 👨‍💻 AKIRA
 
 ## iOS Developer & Cloud Backend Engineer
 
