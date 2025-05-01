@@ -1,21 +1,22 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖   </h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 Hello! I'm Minh or Akira</h1>
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:akira.minhtran15@gmail.com" title="Email Address"><code>My email</code></a>
+<a href="mailto:akira.minhtran15@gmail.com" title="Email Address"><code>Drop your message here</code></a>
 </p>
 
 <!-- Socials -->
 <p align="center">
    <kbd>
   <a href="https://www.linkedin.com/in/minh-trần/" title="LinkedIn - Minh Tran">
-    <img src="https://img.shields.io/badge/-Minh_Tran-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Minh_Tran-blue?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93">
-    <img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" />
+  <a href="https://www.reddit.com/user/Own-Consequence-4805/" title="Reddit - Akira">
+    <img src="https://img.shields.io/badge/Akira-ff4500?style=flat&logo=reddit&logoColor=white"/>
   </a>
-  <a href="https://aliciasykes.com" title="Personal Website - aliciasykes.com"><img src="https://img.shields.io/badge/-aliciasykes.com-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://minhtran.work" title="Personal Website"><img src="https://img.shields.io/badge/minhtran.work-gray?style=flat&logo=website&logoColor=white
+" /></a>
   </kbd>
 </p>
 
@@ -23,20 +24,20 @@
 <!-- Outer collapsible -->  
 <details>
    <summary><b>↕️ Expand for more!</b></summary>
-  
+      
    <br>
    
 <!-- About Section -->
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      <img align="right" width="250" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Minh Tran" />
       
 <blockquote>
 
-I am full developer based in Saigon Vietnam. And I love writing code and creating products!
+I am full developer based in Saigon, Vietnam. And I love writing code and creating products!
 
-I have a small side project.
+I have a small side project. 
 
 When I'm not at the keyboard, I like sports, reading and hanging out with friends.
 
