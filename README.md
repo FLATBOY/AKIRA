@@ -9,8 +9,8 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Minh Tran">
-    <img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/minh-trần/" title="LinkedIn - Minh Tran">
+    <img src="https://img.shields.io/badge/-Minh_Tran-0072b1?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93">
     <img src="https://img.shields.io/badge/-Lissy93-ff4500?style=flat&logo=reddit&logoColor=white" />
