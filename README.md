@@ -1,19 +1,15 @@
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Akira</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖   </h1>
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:akira.minhtran15@gmail.com" title="Email Address"><code>My email</code></a> │ 
-<a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>FEDB 68F5 5C02 83A7</code></a>
+<a href="mailto:akira.minhtran15@gmail.com" title="Email Address"><code>My email</code></a>
 </p>
 
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://twitter.com/Lissy_Sykes" title="Twitter - @Lissy_Sykes">
-    <img src="https://img.shields.io/badge/-@Lissy_Sykes-00acee?style=flat&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Alicia Sykes">
+  <a href="https://www.linkedin.com/in/aliciasykes" title="LinkedIn - Minh Tran">
     <img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/lissy93" title="Reddit - u/lissy93">
