@@ -1,9 +1,9 @@
-## 👤 ABOUT ME
+## 👤 About
 - 👋 Hi, I’m Minh (@Akira)
 - 👀 I live in Saigon, Vietnam.
 - 🌱 I'm studying anything related to Software Development and some ML/AI (for my own product)
 -----
-## 🛠️ TECH STACK
+## 🛠️ Tech stacks
 | **Category** | **Technologies** |
 |:---|:---|
 | **Frontend** | [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) |
