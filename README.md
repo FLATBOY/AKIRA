@@ -1,5 +1,5 @@
-👋 Hi, I’m Minh (@Akira)
-👀 I live in Saigon, Vietnam.
-🌱 I'm studying anything related to Software Development and some ML/AI (for my own product)
-💞️ I’m building my own iOS application product. Looking forward to bring it to user.
-📫 How to reach me ... on my Portfolio Website: https://www.zach-japan.com/ or Email: tqminh1995@gmail.com
+- 👋 Hi, I’m Minh (@Akira)
+- 👀 I live in Saigon, Vietnam.
+- 🌱 I'm studying anything related to Software Development and some ML/AI (for my own product)
+- 💞️ I’m building my own iOS application product. Looking forward to bring it to user.
+- 📫 How to reach me ... on my Portfolio Website: https://www.zach-japan.com/ or Email: tqminh1995@gmail.com
